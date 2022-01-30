@@ -5,7 +5,7 @@ pipeline{
             
             steps{
                 
-                echo "Hello test Pipeline hello"
+                echo "Hello test Pipeline hello sam"
             }
         }
     }
