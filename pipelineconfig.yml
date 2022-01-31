@@ -1,0 +1,3 @@
+pipelineType: "java"
+buildTool: "maven"
+appName: "CSIGlobal"
