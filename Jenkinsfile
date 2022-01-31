@@ -1,3 +1,3 @@
 @Library('sharedcode@main') _
-echo "Inside JenkinsFile"
+echo "Inside JenkinsFile and"
 mainPipeline
