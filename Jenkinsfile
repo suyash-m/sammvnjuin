@@ -1,6 +1,6 @@
 @Library('sharedcode@main') _
 
-ef call(){
+def call(){
 
 echo 'Loading pipeline definition'
 		Map pipelineDefinition = readYaml file: 'pipelineconfig.yml'
