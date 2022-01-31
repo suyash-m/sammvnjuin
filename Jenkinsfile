@@ -1,12 +1,2 @@
-pipeline{
-    agent any
-    stages{
-        stage('Build'){
-            
-            steps{
-                
-                echo "Hello test Pipeline hello sam new"
-            }
-        }
-    }
-}
+@Library('sharedcode@master') _
+mainPipeline
