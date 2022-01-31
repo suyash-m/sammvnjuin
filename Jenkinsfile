@@ -1,2 +1,2 @@
-@Library('sharedcode@master') _
+@Library('sharedcode@main') _
 mainPipeline
